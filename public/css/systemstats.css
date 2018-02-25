@@ -1,0 +1,15 @@
+table.status td.yellow{
+  background-color: lemonchiffon;
+}
+table.status td.green{
+  background-color: lightgreen;
+}
+table.status td.red{
+  background-color: lightcoral;
+}
+
+th {
+  border-right: lightgray 1px solid;
+  background-color: #f9f9f9;
+  width: 45%;
+}

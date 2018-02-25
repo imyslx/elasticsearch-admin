@@ -1,0 +1,43 @@
+body {
+  width: 100%;
+  margin-top: 1%;
+  font-family: 'Raleway', sans-serif;
+}
+div.head {
+  padding: 1%;
+  /* text-align: center; */
+}
+div.container {
+  margin-top: 1vh;
+  margin-bottom: 3vh;
+}
+
+div.row {
+  margin-bottom: 1vh;
+}
+
+div.col a {
+  display: block;
+  color: inherit;
+}
+div.menu {
+  padding: 0.5vh;
+  text-align: center;
+  border: solid 1px black;
+  border-radius: 5px;
+}
+div.menu div.col:hover {
+  background-color: black;
+  color: white
+}
+div.menu-item {
+  font-size: 16px;
+  padding: 0.5vh;
+}
+.width-max {
+  widows: 100%;
+}
+
+h4 {
+  font-size: 1.8rem;
+}
