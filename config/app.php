@@ -6,7 +6,7 @@ return [
     'env' => env('APP_ENV', 'development'),
     'debug' => env('APP_DEBUG', false),
     'url' => env('APP_URL', 'http://localhost'),
-    'timezone' => 'JST',
+    'timezone' => 'UTC',
     'locale' => 'jp',
     'fallback_locale' => 'en',
     'key' => env('APP_KEY'),
