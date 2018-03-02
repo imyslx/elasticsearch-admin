@@ -30,7 +30,9 @@
           </a>
         </div>
         <div class="menu-item col">
+          <a href="/search">
           Search
+          </a>
         </div>
         <div class="menu-item col">
             Data

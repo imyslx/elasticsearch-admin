@@ -1,0 +1,30 @@
+div.search-box {
+  border: solid 1px black;
+  border-radius: 5px;
+  font-size: 1.4rem;
+
+  padding: 1vh;
+
+}
+
+form {
+  margin-bottom: 5px;
+}
+
+input,select {
+  font-size: 1.4rem!important;
+}
+
+select.form-control {
+  height: 35px!important;
+}
+button.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+span.center {
+  display: block;
+  text-align: center;
+}

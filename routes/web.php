@@ -6,3 +6,4 @@ Route::get('/welcome', function () {
 
 Route::get('/', 'SystemStatsController@main');
 Route::get('/indexes', 'IndexesController@main');
+Route::get('/search', 'SearchController@main');
